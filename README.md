@@ -45,5 +45,5 @@ The controls are simple, designed for two players on one keyboard:
 
 ## Screenshots 🖼️
 
-![Screenshot of a level](Neon Maze Dash/screenshots/showcase1.gif)
-![Screenshot of a level](Neon Maze Dash/screenshots/showcase2.gif)
+![Screenshot of a level](Neon%20Maze%20Dash/screenshots/showcase1.gif)
+![Screenshot of a level](Neon%20Maze%20Dash/screenshots/showcase2.gif)
